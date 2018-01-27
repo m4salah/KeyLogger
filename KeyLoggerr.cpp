@@ -10,6 +10,7 @@ using namespace std;
 void HideConsole();
 int main() {
 	HideConsole();
+	Sleep(0);
 	char key;
 
 	for (;;)
